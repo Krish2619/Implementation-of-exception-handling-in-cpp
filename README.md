@@ -8,9 +8,11 @@ Apparatus:
 Program Explanation:
 
 Program 1: Division Exception
+
 Performs division of two numbers. If the divisor is zero, an exception is thrown to handle the error.
 
 Program 2: Age Validation
+
 Checks if a person is 18 or older. If underage, an exception is thrown to deny access.
 
 Algorithm:
