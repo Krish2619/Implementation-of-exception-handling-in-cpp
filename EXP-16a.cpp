@@ -1,4 +1,3 @@
-
 // Krishna Chhabaria
 // 24070123149
 // B3
@@ -25,3 +24,4 @@ int main(){
 enter value of number 1 & 2: 12 35
 answer = 0.342857
 */
+
